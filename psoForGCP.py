@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import time
 
-# Note that the majority of this code was NOT written by me. I modified to be able to input a graph for the
+# Note that the majority of this code was NOT written by me. I modified it to be able to input a graph for the
 # Particle Swarm Optimization algorithm
 
 
